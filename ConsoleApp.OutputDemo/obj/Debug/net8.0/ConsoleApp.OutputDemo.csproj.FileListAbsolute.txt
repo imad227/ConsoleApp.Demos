@@ -1,0 +1,14 @@
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.deps.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.runtimeconfig.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.AssemblyInfoInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.AssemblyInfo.cs
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.csproj.CoreCompileInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/refint/ConsoleApp.OutputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.genruntimeconfig.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ref/ConsoleApp.OutputDemo.dll

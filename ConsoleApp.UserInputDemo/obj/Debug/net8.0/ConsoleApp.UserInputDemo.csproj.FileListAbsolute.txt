@@ -1,0 +1,14 @@
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/bin/Debug/net8.0/ConsoleApp.UserInputDemo
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/bin/Debug/net8.0/ConsoleApp.UserInputDemo.deps.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/bin/Debug/net8.0/ConsoleApp.UserInputDemo.runtimeconfig.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/bin/Debug/net8.0/ConsoleApp.UserInputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/bin/Debug/net8.0/ConsoleApp.UserInputDemo.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.AssemblyInfoInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.AssemblyInfo.cs
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.csproj.CoreCompileInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/refint/ConsoleApp.UserInputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.genruntimeconfig.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ref/ConsoleApp.UserInputDemo.dll
