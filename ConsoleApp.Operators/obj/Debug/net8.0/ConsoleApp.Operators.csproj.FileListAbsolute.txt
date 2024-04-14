@@ -1,0 +1,15 @@
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/bin/Debug/net8.0/ConsoleApp.Operators
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/bin/Debug/net8.0/ConsoleApp.Operators.deps.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/bin/Debug/net8.0/ConsoleApp.Operators.runtimeconfig.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/bin/Debug/net8.0/ConsoleApp.Operators.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/bin/Debug/net8.0/ConsoleApp.Operators.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.AssemblyInfoInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.AssemblyInfo.cs
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.csproj.CoreCompileInputs.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.sourcelink.json
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/refint/ConsoleApp.Operators.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.pdb
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ConsoleApp.Operators.genruntimeconfig.cache
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.Operators/obj/Debug/net8.0/ref/ConsoleApp.Operators.dll

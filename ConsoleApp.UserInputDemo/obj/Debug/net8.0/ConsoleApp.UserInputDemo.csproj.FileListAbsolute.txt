@@ -12,3 +12,4 @@
 /home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.pdb
 /home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.genruntimeconfig.cache
 /home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ref/ConsoleApp.UserInputDemo.dll
+/home/imad/Documents/C# Console and Windows Forms Development with Entity Framework/ConsoleApp.Demos/ConsoleApp.UserInputDemo/obj/Debug/net8.0/ConsoleApp.UserInputDemo.sourcelink.json
